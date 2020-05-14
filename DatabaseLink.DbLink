@@ -1,0 +1,33 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Matheus Reis\Desktop\DEMO ALTIUM\AdaptadorUSBSerialRS232 (18-04-2019 08-41-42)\InternalSupplierDataBaseExample.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+AddMode=1
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel 2007
+LibraryDatabasePath=C:\Users\Matheus Reis\Desktop\DEMO ALTIUM\AdaptadorUSBSerialRS232 (18-04-2019 08-41-42)\InternalSupplierDataBaseExample.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LastFocusedTable=DemoDB$
+[Table1]
+SchemaName=
+TableName=DemoDB$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Meu PN0=63|Descrição0=278|Descrição Resumida0=125|Número Interno0=105|Nome do Fabricante0=252|PN do Fabricante0=118|Fornecedor0=82|Link para a foto0=381|Preço0=51|Estoque0=65|Moeda0=59
+[FieldMap1]
+Options=FieldName=DemoDB$.Meu PN|TableNameOnly=DemoDB$|FieldNameOnly=Meu PN|FieldType=0|ParameterName=Meu PN|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=DemoDB$.Descrição|TableNameOnly=DemoDB$|FieldNameOnly=Descrição|FieldType=1|ParameterName=Description|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=DemoDB$.Descrição Resumida|TableNameOnly=DemoDB$|FieldNameOnly=Descrição Resumida|FieldType=1|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
