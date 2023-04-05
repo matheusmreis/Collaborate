@@ -30,10 +30,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=D4F77019-C240-443A-9EE3-59B78AA41502
-VaultGUID=4A797E1E-BB22-41D9-8A94-FCF32F6D68BE
-ReleaseVaultName=SKA- Automação de Engenharias
-ItemGUID=D4F77019-C240-443A-9EE3-59B78AA41502
+ItemGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
